@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
 	"process_id" : 21704,
+=======
+	"process_id" : 15852,
+>>>>>>> BranchTestB
 	"version" : "2019.4.39f1",
-	"app_path" : "C:/Program Files/Unity 2019.4.39f1/Editor/Unity.exe",
-	"app_contents_path" : "C:/Program Files/Unity 2019.4.39f1/Editor/Data"
+	"app_path" : "C:/Program Files/Unity/Hub/Editor/2019.4.39f1/Editor/Unity.exe",
+	"app_contents_path" : "C:/Program Files/Unity/Hub/Editor/2019.4.39f1/Editor/Data"
 }
